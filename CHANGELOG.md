@@ -1,3 +1,5 @@
+- 1.0.2
+  - update README.md | add badges
 - 1.0.1
   - configure circleci
 - 1.0.0

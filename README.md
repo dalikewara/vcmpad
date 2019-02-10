@@ -1,5 +1,14 @@
 [![npm package](https://nodei.co/npm/vcmpad.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vcmpad/)
 
+[![version](https://img.shields.io/npm/v/vcmpad.svg?style=flat)](https://img.shields.io/npm/v/vcmpad.svg?style=flat)
+[![build](https://img.shields.io/circleci/project/github/dalikewara/vcmpad.svg?style=flat)](https://img.shields.io/circleci/project/github/dalikewara/vcmpad.svg?style=flat)
+[![language](https://img.shields.io/github/languages/top/dalikewara/vcmpad.svg?style=flat)](https://img.shields.io/github/languages/top/dalikewara/vcmpad.svg?style=flat)
+[![download](https://img.shields.io/npm/dt/vcmpad.svg?style=flat)](https://img.shields.io/npm/dt/vcmpad.svg?style=flat)
+[![dependents](https://img.shields.io/librariesio/dependents/npm/vcmpad.svg?style=flat)](https://img.shields.io/librariesio/dependents/npm/vcmpad.svg?style=flat)
+[![issue](https://img.shields.io/github/issues/dalikewara/vcmpad.svg?style=flat)](https://img.shields.io/github/issues/dalikewara/vcmpad.svg?style=flat)
+[![last_commit](https://img.shields.io/github/last-commit/dalikewara/vcmpad.svg?style=flat)](https://img.shields.io/github/last-commit/dalikewara/vcmpad.svg?style=flat)
+[![license](https://img.shields.io/npm/l/vcmpad.svg?style=flat)](https://img.shields.io/npm/l/vcmpad.svg?style=flat)
+
 # Fast, lightweight, and customable string padding generator
 String padding generator with custom Left/Right-Padding style. It allows you to generate string padding format such as LPS *(Left Padding Space)*, LPZ *(Left Padding Zero)*, RPS *(Right Padding Space)*, and RPZ *(Right Padding Zero)*&mdash;or even you can create your own custom format.
 
