@@ -24,7 +24,8 @@
     "lps",
     "rps",
     "rpz",
-    "generator"
+    "generator",
+    "helper"
   ],
   "author": "Dali Kewara",
   "contributors": [
