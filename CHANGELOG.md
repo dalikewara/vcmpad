@@ -1,2 +1,4 @@
+- 1.0.1
+  - configure circleci
 - 1.0.0
   - Package created
