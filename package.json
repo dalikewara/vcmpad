@@ -1,0 +1,39 @@
+{
+  "name": "vcmpad",
+  "version": "1.0.0",
+  "description": "String padding generator with custom Left/Right-Padding style.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalikewara/vcmpad.git"
+  },
+  "homepage": "https://github.com/dalikewara/vcmpad",
+  "bugs": {
+    "url": "https://github.com/dalikewara/vcmpad/issues",
+    "email": "dalikewara@gmail.com"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "toolkit",
+    "vascomm",
+    "string",
+    "padding",
+    "lpz",
+    "lps",
+    "rps",
+    "rpz",
+    "generator"
+  ],
+  "author": "Dali Kewara",
+  "contributors": [
+    {
+      "name": "Dali Kewara",
+      "email": "dalikewara@gmail.com",
+      "url": "https://www.dalikewara.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
