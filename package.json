@@ -1,6 +1,6 @@
 {
   "name": "vcmpad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "String padding generator with custom Left/Right-Padding style.",
   "main": "app.js",
   "repository": {
