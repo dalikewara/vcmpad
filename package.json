@@ -16,6 +16,7 @@
     "test": "node test.js"
   },
   "keywords": [
+    "tool",
     "toolkit",
     "vascomm",
     "string",
